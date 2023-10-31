@@ -8,5 +8,9 @@ public class File_1 {
         System.out.println("Hello World");
         System.out.print("Afditya");
 
+        System.out.print("Afditya");
+        System.out.print("Afditya");
+        System.out.print("Afditya");
+
     }
 }
